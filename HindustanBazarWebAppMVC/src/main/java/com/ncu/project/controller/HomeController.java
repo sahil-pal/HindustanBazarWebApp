@@ -57,7 +57,7 @@ public class HomeController {
 		Calendar c = Calendar.getInstance();
         int dayOfWeek = c.get(Calendar.DAY_OF_WEEK);
 		
-        List<Offer> OfferList = productManager.getOfferoftheDay(dayOfWeek);
+        List<Offer> OfferList = productManager.getOfferoftheDay(3);
         List<Product> ProductList = productManager.showProductByFilter("All",pg.getLocation(),"ratinghtl" );
         
         model.addAttribute("ProductList", ProductList);

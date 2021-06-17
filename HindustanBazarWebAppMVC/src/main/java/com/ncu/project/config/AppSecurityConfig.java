@@ -40,6 +40,8 @@ public class AppSecurityConfig extends WebSecurityConfigurerAdapter {
 	
 		http
 		.authorizeRequests()
+		.antMatchers("/resources/**")
+        .permitAll()
 		.antMatchers("/registeruser").anonymous()
 		.antMatchers("/registerthisUser").anonymous()
 		.antMatchers("/SellerProducts").hasRole("SELLER")
