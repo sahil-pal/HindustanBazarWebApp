@@ -25,60 +25,59 @@ Online Grocery solution that enables easy interaction, management and organizati
 ## Features
 1. Authentication and Authorization using Spring security
 
-2. Homepage : 
-   a) Offer of the day Section - Dynamically updates the offers according to days of the week.    
-   b) Most popular Section - Product shown on the basis of rating according to selected location or by default all over the regions.
-   c) Brand Store Section - Get all the products of a particular brand.
-   d) Recipe Revision Section - Recipe Blogging platform where you can add your recipe and view other bloggers recipe and you can directly add all the items required for that recipe to your cart
+2. Homepage :  
+a) Offer of the day Section - Dynamically updates the offers according to days of the week.    
+b) Most popular Section - Product shown on the basis of rating according to selected location or by default all over the regions.
+c) Brand Store Section - Get all the products of a particular brand.
+d) Recipe Revision Section - Recipe Blogging platform where you can add your recipe and view other bloggers recipe and you can directly add all the items required for that recipe to your cart
    
   
 3. Shop by category :
+i)You can explore five categories here - 
+a) Fruits & vegetables 
+b) Food grains, Oil and Masala
+c) Beverages
+d) Snacks & Branded Food
+e) Egg, Meat and Fish
   
-  i)You can explore five categories here - 
-    a) Fruits & vegetables 
-    b) Food grains, Oil and Masala
-    c) Beverages
-    d) Snacks & Branded Food
-    e) Egg, Meat and Fish
-  
-  ii)The category page provides you the filter to organise your view and easy selection -
-    a) Popularity (By default)
-    b) Price - high to low
-    c) Price - Low to High
-    d) Alphabetical
-    e) Saving - low to high
-    f) Saving - High to low
+ii)The category page provides you the filter to organise your view and easy selection -
+a) Popularity (By default)
+b) Price - high to low
+c) Price - Low to High
+d) Alphabetical
+e) Saving - low to high
+f) Saving - High to low
  
-  iii) You can't add greater quantity of product than the available quantity
+iii) You can't add greater quantity of product than the available quantity
   
-  iv) If quantity is zero in the Stocks you get the options to notify on the email
+iv) If quantity is zero in the Stocks you get the options to notify on the email
 
-  v) By clicking on view product -> A detailed page describing the product is opened, where the user can post their reviews also.
+v) By clicking on view product -> A detailed page describing the product is opened, where the user can post their reviews also.
   
 4. Location button :
-   a) By default "All over NCR" is set as the user location
-   b) You can update this location by choosing from drop down 
-   c) Once you select a location, now the offers as well as the product in the category will be shown according to the selected location
+a) By default "All over NCR" is set as the user location
+b) You can update this location by choosing from drop down 
+c) Once you select a location, now the offers as well as the product in the category will be shown according to the selected location
    
 5. Search Bar :
    The user can search any product or brand.
 
 6. My page button : 
-   a) You can view your profile details.
-   b) See order histroy
-   c) View posted reviews
+a) You can view your profile details.
+b) See order histroy
+c) View posted reviews
 
-   ** As a Seller 
-   a) All the functionality as a buyer.
-   b) View reviews posted on his products.
-   c) CRUD operations on the product list in their shop stocks.
-   d) Update status of products ordered from their shop.
+** As a Seller 
+a) All the functionality as a buyer.
+b) View reviews posted on his products.
+c) CRUD operations on the product list in their shop stocks.
+d) Update status of products ordered from their shop.
  
 7. Cart button : 
-  a) Shows all the product added to cart.
-  b) Delete product from cart
-  c) Payment options : Netbanking, Card, UPI or COD 
-  d) On clicking buy now : User's cart get updated, Seller get the Order, User's Order list get updated and the Stocks of the store gets updated.
+a) Shows all the product added to cart.
+b) Delete product from cart
+c) Payment options : Netbanking, Card, UPI or COD 
+d) On clicking buy now : User's cart get updated, Seller get the Order, User's Order list get updated and the Stocks of the store gets updated.
 
 ## How it looks like 
    
@@ -94,7 +93,8 @@ Online Grocery solution that enables easy interaction, management and organizati
 <img width="1440" alt="Screenshot 2021-06-29 at 12 10 44 PM" src="https://user-images.githubusercontent.com/69889824/123752233-3c3a8080-d8d6-11eb-947b-db6142755276.png">
 <img width="1440" alt="Screenshot 2021-06-29 at 12 10 53 PM" src="https://user-images.githubusercontent.com/69889824/123752263-40ff3480-d8d6-11eb-98ed-cf3a6c0cba09.png">
 <img width="1440" alt="Screenshot 2021-06-29 at 12 09 14 PM" src="https://user-images.githubusercontent.com/69889824/123752287-4492bb80-d8d6-11eb-9816-6ff206200716.png">
-![Uploading Screenshot 2021-06-29 at 12.15.32 PM.png…]()
+<img width="724" alt="Screenshot 2021-06-29 at 12 15 32 PM" src="https://user-images.githubusercontent.com/69889824/123752795-c97dd500-d8d6-11eb-91b5-e08f92cd345a.png">
+
 
 
 ## Future Update 
