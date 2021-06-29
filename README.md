@@ -31,10 +31,13 @@ Online Grocery solution that enables easy interaction, management and organizati
 2. Homepage : 
    a) Offer of the day Section - Dynamically updates the offers according to days of the week. 
    <img width="1440" alt="Screenshot 2021-06-29 at 12 04 49 PM" src="https://user-images.githubusercontent.com/69889824/123749500-21b2d800-d8d3-11eb-90bd-ca739b9ee7d0.png">
+   
    b) Most popular Section - Product shown on the basis of rating according to selected location or by default all over the regions.
    <img width="1440" alt="Screenshot 2021-06-29 at 12 05 00 PM" src="https://user-images.githubusercontent.com/69889824/123749514-25def580-d8d3-11eb-8386-cef56e82a161.png">
+   
    c) Brand Store Section - Get all the products of a particular brand.
    <img width="1440" alt="Screenshot 2021-06-29 at 12 12 17 PM" src="https://user-images.githubusercontent.com/69889824/123749633-43ac5a80-d8d3-11eb-8b9c-94e175ac9a26.png">
+   
    d) Recipe Revision Section - Recipe Blogging platform where you can add your recipe and view other bloggers recipe and you can directly add all the items required for that recipe to your cart
    
   
@@ -55,7 +58,7 @@ Online Grocery solution that enables easy interaction, management and organizati
     e) Saving - low to high
     f) Saving - High to low
     
-     <img width="1440" alt="Screenshot 2021-06-29 at 12 07 43 PM" src="https://user-images.githubusercontent.com/69889824/123749779-6c345480-d8d3-11eb-840b-4747ec4b8d40.png"><img width="724" alt="Screenshot 2021-06-29 at 12 14 26 PM" src="https://user-images.githubusercontent.com/69889824/123749901-8ff79a80-d8d3-11eb-92a6-4ff0238fb1a2.png">
+    <img width="1440" alt="Screenshot 2021-06-29 at 12 07 43 PM" src="https://user-images.githubusercontent.com/69889824/123750543-56735f00-d8d4-11eb-9d5e-54c392c06548.png">
   
   iii) You can't add greater quantity of product than the available quantity
   
@@ -78,8 +81,10 @@ Online Grocery solution that enables easy interaction, management and organizati
 6. My page button : 
    a) You can view your profile details.
    <img width="1440" alt="Screenshot 2021-06-29 at 12 08 36 PM" src="https://user-images.githubusercontent.com/69889824/123750221-f4b2f500-d8d3-11eb-9d92-e76cec1e6353.png">
+   
    b) See order histroy
    <img width="1440" alt="Screenshot 2021-06-29 at 12 09 32 PM" src="https://user-images.githubusercontent.com/69889824/123750248-ff6d8a00-d8d3-11eb-8625-5ab6738770c4.png">
+   
    c) View posted reviews
    <img width="1440" alt="Screenshot 2021-06-29 at 12 08 55 PM" src="https://user-images.githubusercontent.com/69889824/123750265-06949800-d8d4-11eb-9239-b5353de18835.png">
    
@@ -87,17 +92,21 @@ Online Grocery solution that enables easy interaction, management and organizati
    a) All the functionality as a buyer.
    b) View reviews posted on his products.
    <img width="1440" alt="Screenshot 2021-06-29 at 12 10 44 PM" src="https://user-images.githubusercontent.com/69889824/123750279-0b594c00-d8d4-11eb-83b3-d2a962cfad26.png">
+   
    c) CRUD operations on the product list in their shop stocks.
    <img width="1440" alt="Screenshot 2021-06-29 at 12 10 53 PM" src="https://user-images.githubusercontent.com/69889824/123750293-0f856980-d8d4-11eb-83d5-712c17d6bab1.png">
+   
    d) Update status of products ordered from their shop.
  
 7. Cart button : 
   a) Shows all the product added to cart
   ![Uploading Screenshot 2021-06-29 at 12.09.14 PM.png…]()
+  
   b) Delete product from cart
   c) Payment options : Netbanking, Card, UPI or COD 
   d) On clicking buy now : User's cart get updated, Seller get the Order, User's Order list get updated and the Stocks of the store gets updated.
   <img width="1440" alt="Screenshot 2021-06-29 at 12 09 24 PM" src="https://user-images.githubusercontent.com/69889824/123750340-1d3aef00-d8d4-11eb-8673-6476731d7e26.png">
+  
 
  
   
