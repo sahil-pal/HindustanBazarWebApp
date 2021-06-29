@@ -100,9 +100,9 @@ Online Grocery solution that enables easy interaction, management and organizati
    d) Update status of products ordered from their shop.
  
 7. Cart button : 
-  a) Shows all the product added to cart
-  ![Uploading Screenshot 2021-06-29 at 12.09.14 PM.png…]()
-  
+  a) Shows all the product added to cart.
+  <img width="1440" alt="Screenshot 2021-06-29 at 12 09 14 PM" src="https://user-images.githubusercontent.com/69889824/123751773-b4ed0d00-d8d5-11eb-820e-01944744fd3a.png">
+
   b) Delete product from cart
   c) Payment options : Netbanking, Card, UPI or COD 
   d) On clicking buy now : User's cart get updated, Seller get the Order, User's Order list get updated and the Stocks of the store gets updated.
