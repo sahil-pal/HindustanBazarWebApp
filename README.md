@@ -28,7 +28,7 @@ Online Grocery solution that enables easy interaction, management and organizati
 2. Homepage :  
 a) Offer of the day Section - Dynamically updates the offers according to days of the week.    
 b) Most popular Section - Product shown on the basis of rating according to selected location or by default all over the regions.
-c) Brand Store Section - Get all the products of a particular brand.
+c) Brand Store Section - Get all the products of a particular brand.  
 d) Recipe Revision Section - Recipe Blogging platform where you can add your recipe and view other bloggers recipe and you can directly add all the items required for that recipe to your cart
    
   
