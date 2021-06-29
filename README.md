@@ -110,7 +110,8 @@ Online Grocery solution that enables easy interaction, management and organizati
   
 
  
-  
-  
-  
+## Future Update 
+1. Email OTP verification while signing up.
+2. Order Confirmation and Status update Email
+3. Payment Options
   
