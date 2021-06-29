@@ -58,7 +58,8 @@ Online Grocery solution that enables easy interaction, management and organizati
     e) Saving - low to high
     f) Saving - High to low
     
-    <img width="1440" alt="Screenshot 2021-06-29 at 12 07 43 PM" src="https://user-images.githubusercontent.com/69889824/123750543-56735f00-d8d4-11eb-9d5e-54c392c06548.png">
+   <img width="1440" alt="Screenshot 2021-06-29 at 12 21 55 PM" src="https://user-images.githubusercontent.com/69889824/123750815-a6eabc80-d8d4-11eb-922a-f5d1f2ce4be2.png">
+
   
   iii) You can't add greater quantity of product than the available quantity
   
