@@ -68,7 +68,7 @@ VALUES
 ('pulkitgrocery@gmail.com','{noop}pulkit',1),
 ('radhikagrocery@gmail.com','{noop}radhika',1),
 ('rahulgrocery@gmail.com','{noop}rahul',1),
-('pal','{noop}pal',1);
+('buyer','{noop}Buyer@123',1);
 
 
 -- Table structure for table `authorities`
@@ -508,8 +508,6 @@ select * from Offer;
 select * from Product order by ProductRating desc, ProductCategory asc limit 16;
 select * from Product order by ProductBrand asc;
 
-insert into Buyer values("pal","sahil pal","1212121212","sp@gmail.com","2121","Gurugram","Haryana",100);
-select * from Buyer where BuyerID = 'pal';
 select * from Buyer;
 select * from Cart;
 
