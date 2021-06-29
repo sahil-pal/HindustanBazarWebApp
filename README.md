@@ -38,7 +38,6 @@ b) Food grains, Oil and Masala.
 c) Beverages. 
 d) Snacks & Branded Food. 
 e) Egg, Meat and Fish. 
-  
 ii)The category page provides you the filter to organise your view and easy selection -  
 a) Popularity (By default). 
 b) Price - high to low. 
@@ -46,25 +45,22 @@ c) Price - Low to High.
 d) Alphabetical. 
 e) Saving - low to high. 
 f) Saving - High to low. 
- 
 iii) You can't add greater quantity of product than the available quantity. 
-  
 iv) If quantity is zero in the Stocks you get the options to notify on the email. 
-
 v) By clicking on view product -> A detailed page describing the product is opened, where the user can post their reviews also.  
   
 4. Location button :  
-a) By default "All over NCR" is set as the user location. 
-b) You can update this location by choosing from drop down. 
-c) Once you select a location, now the offers as well as the product in the category will be shown according to the selected location. 
+a) By default "All over NCR" is set as the user location.  
+b) You can update this location by choosing from drop down.   
+c) Once you select a location, now the offers as well as the product in the category will be shown according to the selected location.   
    
 5. Search Bar :  
    The user can search any product or brand.  
 
 6. My page button :     
 a) You can view your profile details.  
-b) See order histroy. 
-c) View posted reviews. 
+b) See order histroy.  
+c) View posted reviews.   
 
 ** As a Seller.  
 a) All the functionality as a buyer.  
